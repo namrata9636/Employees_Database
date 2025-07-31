@@ -1,6 +1,9 @@
 # Employees_Database
+
 designing a small company's employee database that stores information about employees, departments, salaries, and job roles.
+
 Tables:
+
 departments: department_id, department_name
 
 employees: employee_id, name, gender, date_of_birth, hire_date, department_id, salary
